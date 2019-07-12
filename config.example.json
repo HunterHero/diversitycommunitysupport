@@ -1,0 +1,20 @@
+{
+  "token": "NTU5MDA4NTg3ODU1Mjk4NTYx.XR_uOA.QygLwVpW__NPaaKjPtS_tGntgn0",
+  "mailGuildId": "558989399820599296",
+  "mainGuildId": "558989399820599296",
+  "newThreadCategoryId": "564149625699827722",
+  "logChannelId": "564149674617995264",
+  "ignoreAccidentalThreads": true,
+  "alwaysReply": true,
+  "typingProxy": false,
+  "typingProxyReverse": true,
+
+  "status": "Message me if you have any questions, comments, concerns, feedback, or suggestions!",
+  "responseMessage": "Thank you for contacting **Community Support!** A **Assistant** will be here with you shortly.",
+  "enableGreeting": true,
+  "greetingMessage": "A **Assistant** is now connected with you.",
+  "allowUserClose": true,
+  "closeMessage": "Your **session** has **ended**. Feel free to contact us again if you have any more **questions, comments, concerns, feedback, or suggestions**!",
+  "url": "https://diversitycommunitynetwork.cloud.libraryofcode.us",
+  "port": 10901
+}
